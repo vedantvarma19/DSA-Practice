@@ -1,3 +1,5 @@
+// leetcode # 387 
+
 class Solution {
     public int firstUniqChar(String s) {
 
