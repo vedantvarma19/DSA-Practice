@@ -7,7 +7,6 @@ class HashMap16 {
         
         for (String str : strings) {
             
-            // Agar string length 1 hai
             if (str.length() == 1) {
                 map.putIfAbsent("single", new ArrayList<>());
                 map.get("single").add(str);
