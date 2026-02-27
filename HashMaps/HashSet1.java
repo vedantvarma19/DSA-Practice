@@ -1,5 +1,7 @@
 import java.util.HashSet;
 
+// https://leetcode.com/problems/jewels-and-stones/
+
 class HashSet1{
     public int numJewelsInStones(String jewels, String stones) {
         
